@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as n,O as l}from"./chunks/framework.eb2f041d.js";const i=JSON.parse('{"title":"nestjs模块","description":"","frontmatter":{},"headers":[],"relativePath":"back/module.md","filePath":"back/module.md"}'),o={name:"back/module.md"},p=l("",9),e=[p];function t(c,r,D,y,F,A){return a(),n("div",null,e)}const u=s(o,[["render",t]]);export{i as __pageData,u as default};

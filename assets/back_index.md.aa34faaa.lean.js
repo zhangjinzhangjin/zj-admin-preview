@@ -1,0 +1,1 @@
+import{_ as s,o as n,c as a,O as l}from"./chunks/framework.eb2f041d.js";const i=JSON.parse('{"title":"后端框架概述","description":"","frontmatter":{},"headers":[],"relativePath":"back/index.md","filePath":"back/index.md"}'),p={name:"back/index.md"},o=l("",7),e=[o];function t(c,r,D,C,A,y){return n(),a("div",null,e)}const d=s(p,[["render",t]]);export{i as __pageData,d as default};

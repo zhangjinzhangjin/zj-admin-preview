@@ -1,0 +1,1 @@
+import{_ as s,o as n,c as a,O as l}from"./chunks/framework.eb2f041d.js";const F=JSON.parse('{"title":"前端框架概述","description":"","frontmatter":{},"headers":[],"relativePath":"front/index.md","filePath":"front/index.md"}'),p={name:"front/index.md"},o=l("",7),e=[o];function c(A,C,t,D,r,y){return n(),a("div",null,e)}const d=s(p,[["render",c]]);export{F as __pageData,d as default};

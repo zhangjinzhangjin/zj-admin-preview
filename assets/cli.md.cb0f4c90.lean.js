@@ -1,0 +1,1 @@
+import{_ as s,o as l,c as a,O as n}from"./chunks/framework.eb2f041d.js";const u=JSON.parse('{"title":"脚手架","description":"","frontmatter":{},"headers":[],"relativePath":"cli.md","filePath":"cli.md"}'),e={name:"cli.md"},o=n("",11),t=[o];function p(i,c,r,d,y,m){return l(),a("div",null,t)}const C=s(e,[["render",p]]);export{u as __pageData,C as default};
